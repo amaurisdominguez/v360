@@ -8,7 +8,7 @@ export default function Home() {
 				<p className="font-bold">360 Viewer Test</p>
 				<ul className="text-blue-500">
 					<li>
-						<Link to="/v360/view">Pantry</Link>
+						<Link to="/v360/view">Sala</Link>
 					</li>
 				</ul>
 			</div>
